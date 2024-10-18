@@ -1,0 +1,21 @@
+/* main header button */
+.nav-link.nav-red{
+    background-color: #dc3545;
+    color: white;
+}
+
+/* main header button on hover */
+.nav-link.nav-red:hover {
+    background-color: #bb2d3b;
+    border: #b02a37;
+}
+
+/* other header buttons */
+.nav-link{
+    color: #dc3545;
+}
+
+/* other header buttons on hover */
+.nav-link:hover {
+    color: #b02a37;
+}
